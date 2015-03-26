@@ -7,6 +7,7 @@ import javax.swing.JTextField;
 /**
  *
  * @author Jordan
+ * Prueba cambio 1
  */
 public class Vista extends javax.swing.JFrame {
 
